@@ -39,3 +39,15 @@ a{
 nav{
     margin: 20px;
 }
+
+#poster{
+  text-align: center;
+}
+
+#poster img{
+    width: 450px;
+    border: 8px solid #D8B26E;
+    border-radius: 15px;
+    border-image: 15px;
+
+}
