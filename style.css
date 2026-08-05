@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1E4D4F;
+    color: whitesmoke;
+    font-family: "Poppins";
+}
+
+header{
+    padding: 35px;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 900;
+    font-family: "Cormorant Garamond";
+    margin-bottom: 7px;
+}
+
+h2 {
+    font-family: "Playfair Display";
+}
+
+h3{
+ font-family: "Playfair Display";
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 25px;
+    font-weight: 500;
+}
+
+nav{
+    margin: 20px;
+}
