@@ -72,3 +72,57 @@ nav{
 #sinopse h2{
     font-size: 40px;
 }
+
+.c1{
+    color: #021014;
+    background-color: #D9B777;
+    border: 3px solid #D9B777;
+    border-radius: 15px;
+    font-size: 20px;
+    max-width: 300px;
+}
+
+.c2{
+    color: #021014;
+    background-color: #D9B777;
+    border: 3px solid #D9B777;
+    border-radius: 15px;
+    font-size: 20px;
+    max-width: 300px;
+}
+
+.c3{
+    color: #021014;
+    background-color: #D9B777;
+    border: 3px solid #D9B777;
+    border-radius: 15px;
+    font-size: 20px;
+    max-width: 300px;
+}
+
+.quadrados {
+    display: flex;
+    gap: 220px;
+    margin-bottom: 25px;
+    margin-top: 18px;
+}
+
+#elenco h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.destaque h2{
+    font-size: 35px;
+    text-align: center;
+}
+
+.destaque {
+    font-size: 30px;
+    line-height: normal;
+    background: #14353F;
+    border: 3px solid #D8B26E;
+    border-radius: 15px;
+    padding: 17px;
+
+}
