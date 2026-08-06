@@ -155,3 +155,27 @@ nav{
     border: 5px solid #D8B26E;
     
 }
+
+#trailer {
+    padding: 35px;
+    text-align: center;
+}
+
+#trailer h2{
+    font-size: 40px;
+
+}
+
+#trailer p{
+    font-size: 30px;
+    margin-bottom: 24px;
+}
+
+#trailer a{
+    font-size: 20px;
+    line-height: normal;
+    background: #14353F;
+    border: 3px solid #D8B26E;
+    border-radius: 15px;
+    padding: 17px  30px;
+}
