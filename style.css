@@ -48,7 +48,6 @@ nav{
     width: 450px;
     border: 8px solid #D8B26E;
     border-radius: 15px;
-    border-image: 15px;
 
 }
 
@@ -80,6 +79,7 @@ nav{
     border-radius: 15px;
     font-size: 20px;
     max-width: 300px;
+    padding: 15px;
 }
 
 .c2{
@@ -89,6 +89,7 @@ nav{
     border-radius: 15px;
     font-size: 20px;
     max-width: 300px;
+    padding: 15px;
 }
 
 .c3{
@@ -98,6 +99,7 @@ nav{
     border-radius: 15px;
     font-size: 20px;
     max-width: 300px;
+    padding: 15px;
 }
 
 .quadrados {
@@ -112,7 +114,7 @@ nav{
     text-align: center;
 }
 
-.destaque h2{
+.destaque h3{
     font-size: 35px;
     text-align: center;
 }
