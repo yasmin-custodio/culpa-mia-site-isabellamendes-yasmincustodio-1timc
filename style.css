@@ -126,3 +126,32 @@ nav{
     padding: 17px;
 
 }
+
+#galeria h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+.imagens {
+    display: flex;
+    gap: 86px;
+    margin-bottom: 25px;
+    margin-top: 18px;
+}
+
+#galeria .img1 img{
+    width: 389px;
+    border: 5px solid #D8B26E;
+}
+
+#galeria .img2 img{
+    width: 389px;
+    border: 5px solid #D8B26E;
+    
+}
+
+#galeria .img3 img{
+    width: 389px;
+    border: 5px solid #D8B26E;
+    
+}
